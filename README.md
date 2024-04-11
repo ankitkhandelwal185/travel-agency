@@ -1,4 +1,3 @@
-Sure! Below is a sample README.md file for your Java Spring Boot Travel Package Management System:
 
 ```markdown
 # Travel Package Management System
